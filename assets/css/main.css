@@ -9773,12 +9773,19 @@ nav ul li a {
 }
 
 button {
-  margin-top: 1%;
   padding: 0.5%;
 }
 
-.button_white {
+.button-white {
   background-color: #FFF;
+  border-color: #A2A2A2;
+  margin-left: 43%;
+}
+
+.button-green {
+  background-color: #4CA866;
+  border-color: #A2A2A2;
+  margin-left: 1.5%;
 }
 
 /*# sourceMappingURL=main.css.map */

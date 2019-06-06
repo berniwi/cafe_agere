@@ -9709,4 +9709,45 @@ table {
   border-spacing: 0;
 }
 
+h1 {
+  font-family: "PT Mono", monospace;
+  font-size: 70px;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: "PT Mono", monospace;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.letra_oficial {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.letra_oficial--ptmono {
+  font-family: "PT Mono", monospace;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.letra_nav {
+  font-family: "PT Mono", monospace;
+  font-size: 18px;
+  font-weight: 400;
+  color: #989797;
+}
+
+.letra_nav--white {
+  color: #FFF;
+}
+
 /*# sourceMappingURL=main.css.map */

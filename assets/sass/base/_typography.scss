@@ -1,3 +1,40 @@
 h1{
   font-family: $pt_mono;
+  font-size: $xxx-large;
+  font-weight: $letra_regular;
+}
+
+h2{
+  font-family: $roboto;
+  font-size: $x-large;
+  font-weight: $letra_light;
+}
+
+h3{
+  font-family: $pt_mono;
+  font-size: $xx-large;
+  font-weight: $letra_regular;
+}
+
+.letra_oficial{
+  font-family: $roboto;
+  font-size: $large;
+  font-weight: $letra_light;
+}
+
+.letra_oficial--ptmono{
+  font-family: $pt_mono;
+  font-size: $xx-large;
+  font-weight: $letra_regular;
+}
+
+.letra_nav{
+  font-family: $pt_mono;
+  font-size: $large;
+  font-weight: $letra_regular;
+  color: $spanish-gray;
+}
+
+.letra_nav--white{
+  color: $white;
 }

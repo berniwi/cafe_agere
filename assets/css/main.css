@@ -9750,4 +9750,35 @@ h3 {
   color: #FFF;
 }
 
+header {
+  padding-top: 2%;
+  padding-bottom: 4%;
+}
+
+.logo {
+  width: 2.5%;
+  margin-left: 5%;
+  margin-right: 6%;
+  float: left;
+}
+
+nav ul li {
+  display: inline-table;
+  float: left;
+  margin: 1% 1%;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #989797;
+}
+
+button {
+  margin-top: 1%;
+  padding: 0.5%;
+}
+
+.button_white {
+  background-color: #FFF;
+}
+
 /*# sourceMappingURL=main.css.map */

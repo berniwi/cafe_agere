@@ -9755,6 +9755,26 @@ header {
   padding-bottom: 4%;
 }
 
+.titular__texto {
+  float: right;
+  width: 20%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+
+.titular__texto__subtexto {
+  margin-top: 6%;
+}
+
+.medio__numeros {
+  padding-top: 2%;
+}
+
+.medio__numeros__p {
+  display: inline-table;
+  width: 5%;
+}
+
 .logo {
   width: 2.5%;
   margin-left: 5%;
@@ -9786,6 +9806,18 @@ button {
   background-color: #4CA866;
   border-color: #A2A2A2;
   margin-left: 1.5%;
+}
+
+.cuadrado_rojo {
+  background-color: #E4572E;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  color: #FFF;
+}
+
+.cuadrado_rojo_i {
+  padding-top: 10%;
 }
 
 /*# sourceMappingURL=main.css.map */

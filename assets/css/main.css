@@ -9782,7 +9782,7 @@ header {
 }
 
 .ubicacion {
-  border: solid black 1px;
+  height: 264px;
 }
 
 .ubicacion__div {
@@ -9881,9 +9881,31 @@ button {
 }
 
 .cuadrado_azul {
-  height: 150px;
-  width: 150px;
+  height: 232px;
+  width: 469px;
   background-color: #3C91E6;
+  position: absolute;
+  bottom: -2px;
+}
+
+.mapa {
+  width: 396px;
+  height: 210px;
+  position: absolute;
+}
+
+.granos {
+  width: 96px;
+  height: 165px;
+  position: absolute;
+}
+
+.cafetera {
+  width: 500px;
+  height: 270px;
+  position: absolute;
+  bottom: -40px;
+  right: 0;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -9770,11 +9770,6 @@ header {
   padding-top: 2%;
 }
 
-.medio__numeros__p {
-  display: inline-table;
-  width: 5%;
-}
-
 .logo {
   width: 2.5%;
   margin-left: 5%;
@@ -9814,10 +9809,20 @@ button {
   height: 150px;
   text-align: center;
   color: #FFF;
+  position: absolute;
 }
 
 .cuadrado_rojo_i {
-  padding-top: 10%;
+  padding-top: 22%;
+}
+
+.numeros {
+  display: inline-table;
+}
+
+.numeros__1 {
+  width: 10px;
+  color: red;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -9766,8 +9766,27 @@ header {
   margin-top: 6%;
 }
 
-.medio__numeros {
-  padding-top: 2%;
+.middle_section {
+  border: solid #FFF 2px;
+  width: 60%;
+  height: 150px;
+  padding-left: 40px;
+  background-color: #FFF;
+  position: absolute;
+  left: 435px;
+  top: 412px;
+}
+
+.middle_section_div {
+  display: inline-block;
+}
+
+.ubicacion {
+  border: solid black 1px;
+}
+
+.ubicacion__div {
+  display: inline-block;
 }
 
 .logo {
@@ -9803,26 +9822,68 @@ button {
   margin-left: 1.5%;
 }
 
+.numeros {
+  position: relative;
+  top: -50px;
+}
+
+.numeros_1 {
+  width: 120px;
+  padding-right: 8%;
+}
+
+.numeros_2 {
+  width: 90px;
+  padding-right: 8%;
+}
+
+.numeros_3 {
+  width: 170px;
+}
+
 .cuadrado_rojo {
   background-color: #E4572E;
   width: 150px;
   height: 150px;
   text-align: center;
   color: #FFF;
-  position: absolute;
+  position: relative;
+  top: -65px;
+  z-index: 1;
 }
 
 .cuadrado_rojo_i {
-  padding-top: 22%;
+  padding-top: 23%;
 }
 
-.numeros {
-  display: inline-table;
+.cuadrado_amarillo {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  position: relative;
+  top: -5px;
+  right: 130px;
+  z-index: 0;
 }
 
-.numeros__1 {
-  width: 10px;
-  color: red;
+.ubicacion__text {
+  width: 480px;
+  padding-left: 60px;
+  padding-top: 60px;
+}
+
+.ubicacion__text-h3 {
+  padding-bottom: 20px;
+}
+
+.ubicacion__text-p {
+  width: 300px;
+}
+
+.cuadrado_azul {
+  height: 150px;
+  width: 150px;
+  background-color: #3C91E6;
 }
 
 /*# sourceMappingURL=main.css.map */

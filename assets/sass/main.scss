@@ -7,10 +7,14 @@
 
 @import 'layouts/header';
 @import 'layouts/titular';
-@import 'layouts/cuadro_central';
+@import 'layouts/middle_section';
+@import 'layouts/ubicacion';
 
 @import 'components/logo';
 @import 'components/nav';
 @import 'components/button';
-@import 'components/cuadrado_rojo';
 @import 'components/numeros';
+@import 'components/cuadrado_rojo';
+@import 'components/cuadrado_amarillo';
+@import 'components/ubicacion_text';
+@import 'components/cuadrado_azul';

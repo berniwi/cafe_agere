@@ -1,9 +1,18 @@
 .numeros{
-  display: inline-table;
+  position: relative;
+  top: -50px;
 }
 
-.numeros__1{
-  width: 10px;
-  color: red;
+.numeros_1{
+  width: 120px;
+  padding-right: 8%;
+}
 
+.numeros_2{
+  width: 90px;
+  padding-right: 8%;
+}
+
+.numeros_3{
+  width: 170px;
 }

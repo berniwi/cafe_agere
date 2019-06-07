@@ -1,0 +1,14 @@
+.middle_section{
+  border: solid $white 2px;
+  width: 60%;
+  height: 150px;
+  padding-left: 40px;
+  background-color: $white;
+  position: absolute;
+  left: 435px;
+  top: 412px;
+}
+
+.middle_section_div{
+  display: inline-block;
+}

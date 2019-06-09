@@ -2,18 +2,20 @@
   width: 396px;
   height: 210px;
   position: absolute;
+  top: 100vh;
 }
 
 .granos{
-  width: 96px;
-  height: 165px;
+  /*width: 96px;*/
+  /*height: 165px;*/
   position: absolute;
+  bottom: -100vh;
 }
 
 .cafetera{
   width: 500px;
   height: 270px;
   position: absolute;
-  bottom: -40px;
-  right: 0;
+  bottom: 0vh;
+  right: 0vh;
 }

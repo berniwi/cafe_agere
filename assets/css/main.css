@@ -9751,14 +9751,18 @@ h3 {
 }
 
 header {
-  padding-top: 2%;
-  padding-bottom: 4%;
+  padding-top: 3.5vh;
+  padding-bottom: 6vh;
+}
+
+.titular__img {
+  width: 70vw;
 }
 
 .titular__texto {
   float: right;
   width: 20%;
-  margin-right: 10%;
+  margin-right: 10vw;
   margin-top: 3%;
 }
 
@@ -9813,13 +9817,13 @@ button {
 .button-white {
   background-color: #FFF;
   border-color: #A2A2A2;
-  margin-left: 43%;
+  margin-left: 42vw;
 }
 
 .button-green {
   background-color: #4CA866;
   border-color: #A2A2A2;
-  margin-left: 1.5%;
+  margin-left: 2vw;
 }
 
 .numeros {
@@ -9885,27 +9889,29 @@ button {
   width: 469px;
   background-color: #3C91E6;
   position: absolute;
-  bottom: -2px;
+  bottom: 5vh;
 }
 
 .mapa {
   width: 396px;
   height: 210px;
   position: absolute;
+  top: 100vh;
 }
 
 .granos {
-  width: 96px;
-  height: 165px;
+  /*width: 96px;*/
+  /*height: 165px;*/
   position: absolute;
+  bottom: -100vh;
 }
 
 .cafetera {
   width: 500px;
   height: 270px;
   position: absolute;
-  bottom: -40px;
-  right: 0;
+  bottom: 0vh;
+  right: 0vh;
 }
 
 /*# sourceMappingURL=main.css.map */

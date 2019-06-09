@@ -1,21 +1,24 @@
 .mapa{
-  width: 396px;
-  height: 210px;
+  width: 30vw;
+  height: 32.5vh;
   position: absolute;
-  top: 100vh;
+  top: 80vh;
+  left: 31.5vw;
 }
 
 .granos{
-  /*width: 96px;*/
-  /*height: 165px;*/
+  height: 24vh;
+  width: 8vw;
   position: absolute;
-  bottom: -100vh;
+  bottom: -0.2vh;
+  right: 26vw;
+  
 }
 
 .cafetera{
-  width: 500px;
-  height: 270px;
+  width: 31vw;
+  height: 40vh;
   position: absolute;
-  bottom: 0vh;
+  bottom: -16.2vh;
   right: 0vh;
 }

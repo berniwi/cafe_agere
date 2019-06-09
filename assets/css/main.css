@@ -9762,8 +9762,8 @@ header {
 .titular__texto {
   float: right;
   width: 20%;
-  margin-right: 10vw;
-  margin-top: 3%;
+  margin-right: 2vw;
+  margin-top: 8vh;
 }
 
 .titular__texto__subtexto {
@@ -9771,22 +9771,17 @@ header {
 }
 
 .middle_section {
-  border: solid #FFF 2px;
-  width: 60%;
-  height: 150px;
+  width: 65vw;
+  height: 20vh;
   padding-left: 40px;
   background-color: #FFF;
   position: absolute;
-  left: 435px;
-  top: 412px;
+  left: 33.2vw;
+  top: 58vh;
 }
 
 .middle_section_div {
   display: inline-block;
-}
-
-.ubicacion {
-  height: 264px;
 }
 
 .ubicacion__div {
@@ -9828,17 +9823,17 @@ button {
 
 .numeros {
   position: relative;
-  top: -50px;
+  bottom: 6vh;
 }
 
 .numeros_1 {
   width: 120px;
-  padding-right: 8%;
+  margin-right: 3vw;
 }
 
 .numeros_2 {
   width: 90px;
-  padding-right: 8%;
+  margin-right: 2vw;
 }
 
 .numeros_3 {
@@ -9852,7 +9847,8 @@ button {
   text-align: center;
   color: #FFF;
   position: relative;
-  top: -65px;
+  bottom: 9vh;
+  left: 0.2vw;
   z-index: 1;
 }
 
@@ -9865,52 +9861,56 @@ button {
   height: 150px;
   background-color: yellow;
   position: relative;
-  top: -5px;
-  right: 130px;
+  bottom: 1vh;
+  right: 9.5vw;
   z-index: 0;
 }
 
 .ubicacion__text {
-  width: 480px;
-  padding-left: 60px;
-  padding-top: 60px;
+  width: 33.2vw;
+  padding-left: 4vw;
+  padding-top: 9vh;
+  line-height: 25px;
 }
 
 .ubicacion__text-h3 {
-  padding-bottom: 20px;
+  padding-bottom: 3vh;
 }
 
 .ubicacion__text-p {
-  width: 300px;
+  width: 22vw;
 }
 
 .cuadrado_azul {
-  height: 232px;
-  width: 469px;
+  height: 35vh;
+  width: 40vw;
   background-color: #3C91E6;
   position: absolute;
-  bottom: 5vh;
+  left: 33.2vw;
+  top: 76.2vh;
 }
 
 .mapa {
-  width: 396px;
-  height: 210px;
+  width: 30vw;
+  height: 32.5vh;
   position: absolute;
-  top: 100vh;
+  top: 80vh;
+  left: 31.5vw;
 }
 
 .granos {
-  /*width: 96px;*/
-  /*height: 165px;*/
+  height: 24vh;
+  width: 8vw;
   position: absolute;
-  bottom: -100vh;
+  bottom: -0.2vh;
+  right: 26vw;
 }
 
 .cafetera {
-  width: 500px;
-  height: 270px;
+  width: 31vw;
+  height: 40vh;
   position: absolute;
-  bottom: 0vh;
+  bottom: -16.2vh;
   right: 0vh;
 }
 
